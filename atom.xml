@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Xavier&#39;s Blog</title>
+  <id>http://zsy-cn.github.io/blog</id>
+  <updated>2020-03-22T07:47:28Z</updated>
+  <subtitle>做更美好的自己</subtitle>
+  <link href="http://zsy-cn.github.io/blog"></link>
+  <author>
+    <name>Xavier&#39;s Blog</name>
+  </author>
+  <entry>
+    <title>Docker</title>
+    <updated>2019-05-13T00:10:10Z</updated>
+    <id>tag:zsy-cn.github.io,2019-05-13:/blog/docker.html</id>
+    <link href="http://zsy-cn.github.io/blog/docker.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Git&amp;Github使用</title>
+    <updated>2019-05-13T00:10:10Z</updated>
+    <id>tag:zsy-cn.github.io,2019-05-13:/blog/git&amp;github使用.html</id>
+    <link href="http://zsy-cn.github.io/blog/git&amp;github使用.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Golang开发环境搭建</title>
+    <updated>2019-05-13T00:10:10Z</updated>
+    <id>tag:zsy-cn.github.io,2019-05-13:/blog/golang开发环境搭建.html</id>
+    <link href="http://zsy-cn.github.io/blog/golang开发环境搭建.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Mac常用软件</title>
+    <updated>2019-05-12T10:10:10Z</updated>
+    <id>tag:zsy-cn.github.io,2019-05-12:/blog/mac常用软件.html</id>
+    <link href="http://zsy-cn.github.io/blog/mac常用软件.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>OpenWRT讲解</title>
+    <updated>2019-05-12T10:10:10Z</updated>
+    <id>tag:zsy-cn.github.io,2019-05-12:/blog/openwrt-awosome.html</id>
+    <link href="http://zsy-cn.github.io/blog/openwrt-awosome.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>基于KL46的计步器设计</title>
+    <updated>2020-03-22T00:00:00+08:00</updated>
+    <id>tag:zsy-cn.github.io,2020-03-22:/blog/pedometer-base-on-kl46-mcu.html</id>
+    <link href="http://zsy-cn.github.io/blog/pedometer-base-on-kl46-mcu.html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;开源软硬件在 &lt;a href=&#34;https://github.com/zsy-cn/Pedometer&#34;&gt; Pedometer &lt;/a&gt;。&lt;/p&gt;&#xA;</summary>
+  </entry>
+</feed>
